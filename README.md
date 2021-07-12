@@ -13,6 +13,10 @@ The application can be installed on a mobile phone, tablet or computer, but for 
 | GitHub                | https://github.com/rparak/Unity3D_Robotics_ABB                                        |
 | Youtube               | https://www.youtube.com/watch?v=LVRx4pJCO2w                                           |
 
+<p align="center">
+<img src="https://github.com/rparak/Unity3D_Robotics_Overview/blob/main/images/abb_1.png" width="800" height="450">
+</p>
+
 ## Universal Robots UR3
 
 The project is focused on a simple demonstration of client / server communication via TCP / IP, which is implemented in Unity3D. The project demonstrates the Digital-Twin of the UR3 robot with some additional functions. The application uses performance optimization using multi-threaded programming.
