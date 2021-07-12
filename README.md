@@ -10,7 +10,7 @@
 
 **Youtube:** https://www.youtube.com/watch?v=AlEid_gWuA8&t=2s
 
-|                       | Link                                                                                  |
+|        Result         | Link                                                                                  |
 | --------------------- | ------------------------------------------------------------------------------------- |
 | GitHub                | https://github.com/rparak/Unity3D_Robotics_Sorting_Machine                            |
 | Youtube               | https://www.youtube.com/watch?v=AlEid_gWuA8&t=2s                                      |
