@@ -30,6 +30,10 @@ The application can be installed on a mobile phone, tablet or computer, but for 
 | GitHub                | https://github.com/rparak/Unity3D_Robotics_UR                                         |
 | Youtube               | https://www.youtube.com/watch?v=kReuJdESdz0&t=182s                                    |
 
+<p align="center">
+<img src="https://github.com/rparak/Unity3D_Robotics_Overview/blob/main/images/ur_1.png" width="800" height="450">
+</p>
+
 ## Sorting Machine (B&R Automation, SMC)
 
 The project is focused on a simple demonstration of client / server communication via OPC UA, which is implemented in Unity3D (Server - B&R Automation PLC, Client - Unity3D). The project demonstrates the Digital-Twin of the Sorting Machine with some additional functions. The application uses performance optimization using multi-threaded programming.
@@ -44,6 +48,10 @@ The application can be installed on a mobile phone, tablet or computer, but for 
 | GitHub                | https://github.com/rparak/Unity3D_Robotics_Sorting_Machine                            |
 | Youtube               | https://www.youtube.com/watch?v=AlEid_gWuA8&t=2s                                      |
 
+<p align="center">
+<img src="https://github.com/rparak/Unity3D_Robotics_Overview/blob/main/images/sm_1.png" width="800" height="450">
+</p>
+
 ## B&R Automation ACOPOStrak transport system
 
 The project is focused on a simple demonstration of client / server communication via OPC UA, which is implemented in Unity3D (Server - B&R Automation PLC, Client - Unity3D). The project demonstrates the Digital-Twin of the ACOPOStrak with some additional functions. The application uses performance optimization using multi-threaded programming.
@@ -56,3 +64,7 @@ The application can be installed on a mobile phone, tablet or computer, but for 
 | --------------------- | ------------------------------------------------------------------------------------- |
 | GitHub                | https://github.com/rparak/Unity3D_Robotics_ACOPOStrak                                 |
 | Youtube               | https://www.youtube.com/watch?v=Dnw5PxeZf7k                                           |
+
+<p align="center">
+<img src="https://github.com/rparak/Unity3D_Robotics_Overview/blob/main/images/acpT_1.png" width="800" height="450">
+</p>
