@@ -68,3 +68,20 @@ The application can be installed on a mobile phone, tablet or computer, but for 
 <p align="center">
 <img src="https://github.com/rparak/Unity3D_Robotics_Overview/blob/main/images/acpT_1.png" width="800" height="450">
 </p>
+
+## Simple Linear Axis (B&R Automation, SMC)
+
+The project is focused on a simple demonstration of client / server communication via OPC UA, which is implemented in Unity3D (Server - B&R Automation PLC, Client - Unity3D). The project demonstrates simple motion control using Mapp Technology and PLCOpen. The application uses performance optimization using multi-threaded programming.
+
+This solution can be used to control a real axis or to simulate it (Automation Studio Runtime Simulation/ Real PLC). The Unity3D Digital-Twin application was tested on both simulation and real PLC (X20CP1584). It is possible to use another OPC UA server, but in accordance with certain principles.
+
+The application can be installed on a mobile phone, tablet or computer, but for communication with the machine it is necessary to be in the same network.
+
+
+|        Result         | Link                                                                                  |
+| --------------------- | ------------------------------------------------------------------------------------- |
+| GitHub                | https://github.com/rparak/BaR-Motion-Workshop                                         |
+
+<p align="center">
+<img src="https://github.com/rparak/Unity3D_Robotics_Overview/blob/main/images/lin_ax_1.png" width="800" height="450">
+</p>
