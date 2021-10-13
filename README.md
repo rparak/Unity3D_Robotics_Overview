@@ -93,8 +93,8 @@ Roman.Parak@outlook.com
 ```bash
 @misc{RomanParak_Unity3D,
   author = {Roman Parak},
-  title = {Unity3D industrial robotics: Digital-twin},
-  year = {2021},
+  title = {Unity3d industrial robotics: Digital-twin},
+  year = {2020-2021},
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/rparak/Unity3D_Robotics_Overview}}
