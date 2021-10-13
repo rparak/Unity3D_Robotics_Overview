@@ -85,3 +85,20 @@ The application can be installed on a mobile phone, tablet or computer, but for 
 <p align="center">
 <img src="https://github.com/rparak/Unity3D_Robotics_Overview/blob/main/images/lin_ax_1.png" width="800" height="450">
 </p>
+
+## Contact Info:
+Roman.Parak@outlook.com
+
+## Citation (BibTex)
+```bash
+@misc{RomanParak_Unity3D,
+  author = {Roman Parak},
+  title = {Unity3D Industrial robotics: Digital-Twin},
+  year = {2021},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/rparak/Bezier_Curve}}
+}
+```
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
