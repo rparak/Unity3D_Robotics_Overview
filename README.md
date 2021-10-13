@@ -93,11 +93,11 @@ Roman.Parak@outlook.com
 ```bash
 @misc{RomanParak_Unity3D,
   author = {Roman Parak},
-  title = {Unity3D Industrial robotics: Digital-Twin},
+  title = {Unity3D Industrial Robotics: Digital-Twin},
   year = {2021},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/rparak/Bezier_Curve}}
+  howpublished = {\url{https://github.com/rparak/Unity3D_Robotics_Overview}}
 }
 ```
 ## License
