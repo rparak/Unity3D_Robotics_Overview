@@ -86,6 +86,18 @@ The application can be installed on a mobile phone, tablet or computer, but for 
 <img src="https://github.com/rparak/Unity3D_Robotics_Overview/blob/main/images/lin_ax_1.png" width="800" height="450">
 </p>
 
+## Augmented reality - Object control in the field of Robotics
+The principle of Augmented Reality (AR) consists in detecting a key object (in our case a QR code), which after successful localization, displays the 3D model on the screen of the mobile phone, tablet or computer together with the control panel of the object.
+
+The augmented reality application was developed for simple control of objects (Universal Robots, ABB, etc.) and for a better understanding of robotic movements and 3D visualization. The application was created in Unity3D using the Vuforia Engine and tested on Android (Tablet, Phone) and Windows (USB Webcam). In our case, the application uses a simple QR code to detect and display the scene.
+
+The augmented reality application demonstrates several cases of control:
+- movement of joints / links, scaling, information about the object (robot), animation, etc.
+
+|        Result         | Link                                                                                  |
+| --------------------- | ------------------------------------------------------------------------------------- |
+| GitHub                | https://github.com/rparak/AR-Robotics-Object-Control                                  |
+
 ## Contact Info:
 Roman.Parak@outlook.com
 
