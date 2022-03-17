@@ -98,6 +98,10 @@ The augmented reality application demonstrates several cases of control:
 | --------------------- | ------------------------------------------------------------------------------------- |
 | GitHub                | https://github.com/rparak/AR-Robotics-Object-Control                                  |
 
+<p align="center">
+<img src="https://github.com/rparak/Unity3D_Robotics_Overview/blob/main/images/ar_1.png" width="800" height="450">
+</p>
+
 ## Contact Info:
 Roman.Parak@outlook.com
 
