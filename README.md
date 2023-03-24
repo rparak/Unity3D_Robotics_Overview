@@ -102,6 +102,26 @@ The augmented reality application demonstrates several cases of control:
 <img src="https://github.com/rparak/Unity3D_Robotics_Overview/blob/main/images/ar_1.png" width="800" height="450">
 </p>
 
+## ABB CRB 15000 (GoFa): Externally Guided Motion (EGM)
+
+|        Result         | Link                                                                                  |
+| --------------------- | ------------------------------------------------------------------------------------- |
+| GitHub                | coming soon ...                                  |
+
+<p align="center">
+<img src="https://github.com/rparak/Unity3D_Robotics_Overview/blob/main/images/gofa_egm.png" width="800" height="500">
+</p>
+
+## ABB IRB 120 (GoFa): Externally Guided Motion (EGM)
+
+|        Result         | Link                                                                                  |
+| --------------------- | ------------------------------------------------------------------------------------- |
+| GitHub                | coming soon ...                                  |
+
+<p align="center">
+<img src="https://github.com/rparak/Unity3D_Robotics_Overview/blob/main/images/irb_120_egm.png" width="800" height="500">
+</p>
+
 ## Contact Info:
 Roman.Parak@outlook.com
 
