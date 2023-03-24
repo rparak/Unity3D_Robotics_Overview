@@ -110,6 +110,7 @@ The project focuses on a simple demonstration of client-server communication via
 |        Result         | Link                                                                                  |
 | --------------------- | ------------------------------------------------------------------------------------- |
 | GitHub                | coming soon ...                                  |
+| Youtube               | coming soon ...                                  |
 
 <p align="center">
 <img src="https://github.com/rparak/Unity3D_Robotics_Overview/blob/main/images/gofa_egm.png" width="800" height="500">
@@ -122,6 +123,7 @@ The project focuses on a simple demonstration of client-server communication via
 |        Result         | Link                                                                                  |
 | --------------------- | ------------------------------------------------------------------------------------- |
 | GitHub                | coming soon ...                                  |
+| Youtube               | coming soon ...                                  |
 
 <p align="center">
 <img src="https://github.com/rparak/Unity3D_Robotics_Overview/blob/main/images/irb_120_egm.png" width="800" height="500">
