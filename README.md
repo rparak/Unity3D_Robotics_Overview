@@ -87,6 +87,7 @@ The application can be installed on a mobile phone, tablet or computer, but for 
 </p>
 
 ## Augmented reality - Object control in the field of Robotics
+
 The principle of Augmented Reality (AR) consists in detecting a key object (in our case a QR code), which after successful localization, displays the 3D model on the screen of the mobile phone, tablet or computer together with the control panel of the object.
 
 The augmented reality application was developed for simple control of objects (Universal Robots, ABB, etc.) and for a better understanding of robotic movements and 3D visualization. The application was created in Unity3D using the Vuforia Engine and tested on Android (Tablet, Phone) and Windows (USB Webcam). In our case, the application uses a simple QR code to detect and display the scene.
@@ -104,6 +105,8 @@ The augmented reality application demonstrates several cases of control:
 
 ## ABB CRB 15000 (GoFa): Externally Guided Motion (EGM)
 
+The project focuses on a simple demonstration of client-server communication via User Datagram Protocol (UDP), which is implemented in Unity3D. More precisely, it is the control of the robot by EGM (Externally Guided Motion). The main idea is to control the Tool Center Point (TCP) of the robot (Translation, Rotation - Quaternion / Euler Angles) and collect data from the ABB into the Unity3D simulation to visualize the robot motion. An additional feature of the project is the control of the SCHUNK end-effector via TCP/IP, which is also implemented in Unity3D.
+
 |        Result         | Link                                                                                  |
 | --------------------- | ------------------------------------------------------------------------------------- |
 | GitHub                | coming soon ...                                  |
@@ -113,6 +116,8 @@ The augmented reality application demonstrates several cases of control:
 </p>
 
 ## ABB IRB 120 (GoFa): Externally Guided Motion (EGM)
+
+The project focuses on a simple demonstration of client-server communication via User Datagram Protocol (UDP), which is implemented in Unity3D. More precisely, it is the control of the robot by EGM (Externally Guided Motion). The main idea is to generate the motion of the absolute positions of the robot's joints through the Unity3D development platform. An additional feature of the project is to visualization of the robot's target position (with or without the end-effector).
 
 |        Result         | Link                                                                                  |
 | --------------------- | ------------------------------------------------------------------------------------- |
