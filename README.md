@@ -111,7 +111,7 @@ The project focuses on a simple demonstration of client-server communication via
 |        Result         | Link                                                                                  |
 | --------------------- | ------------------------------------------------------------------------------------- |
 | GitHub                | https://github.com/rparak/Unity3D_ABB_CRB_15000_EGM                                   |
-| Youtube               | coming soon ...                                  |
+| Youtube               | https://www.youtube.com/watch?v=hkEybI5IzpE                                           |
 
 <p align="center">
 <img src="https://github.com/rparak/Unity3D_Robotics_Overview/blob/main/images/gofa_egm.png" width="800" height="500">
@@ -124,7 +124,7 @@ The project focuses on a simple demonstration of client-server communication via
 |        Result         | Link                                                                                  |
 | --------------------- | ------------------------------------------------------------------------------------- |
 | GitHub                | https://github.com/rparak/Unity3D_ABB_IRB_120_EGM                                     |
-| Youtube               | coming soon ...                                  |
+| Youtube               | https://www.youtube.com/watch?v=hkEybI5IzpE                                           |
 
 <p align="center">
 <img src="https://github.com/rparak/Unity3D_Robotics_Overview/blob/main/images/irb_120_egm.png" width="800" height="500">
