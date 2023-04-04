@@ -117,7 +117,7 @@ The project focuses on a simple demonstration of client-server communication via
 <img src="https://github.com/rparak/Unity3D_Robotics_Overview/blob/main/images/gofa_egm.png" width="800" height="500">
 </p>
 
-## ABB IRB 120 (GoFa): Externally Guided Motion (EGM)
+## ABB IRB 120: Externally Guided Motion (EGM)
 
 The project focuses on a simple demonstration of client-server communication via User Datagram Protocol (UDP), which is implemented in Unity3D. More precisely, it is the control of the robot by EGM (Externally Guided Motion). The main idea is to generate the motion of the absolute positions of the robot's joints through the Unity3D development platform. An additional feature of the project is to visualization of the robot's target position (with or without the end-effector).
 
