@@ -110,7 +110,7 @@ The project focuses on a simple demonstration of client-server communication via
 
 |        Result         | Link                                                                                  |
 | --------------------- | ------------------------------------------------------------------------------------- |
-| GitHub                | coming soon ...                                  |
+| GitHub                | https://github.com/rparak/Unity3D_ABB_CRB_15000_EGM                                   |
 | Youtube               | coming soon ...                                  |
 
 <p align="center">
@@ -123,7 +123,7 @@ The project focuses on a simple demonstration of client-server communication via
 
 |        Result         | Link                                                                                  |
 | --------------------- | ------------------------------------------------------------------------------------- |
-| GitHub                | coming soon ...                                  |
+| GitHub                | https://github.com/rparak/Unity3D_ABB_IRB_120_EGM                                     |
 | Youtube               | coming soon ...                                  |
 
 <p align="center">
