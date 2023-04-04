@@ -81,7 +81,7 @@ The application can be installed on a mobile phone, tablet or computer, but for 
 |        Result         | Link                                                                                  |
 | --------------------- | ------------------------------------------------------------------------------------- |
 | GitHub                | https://github.com/rparak/BaR-Motion-Workshop                                         |
-| Youtube               | hhttps://www.youtube.com/watch?v=5xKj3ECSeZc&t=4s                                     |
+| Youtube               | https://www.youtube.com/watch?v=5xKj3ECSeZc&t=4s                                     |
 
 <p align="center">
 <img src="https://github.com/rparak/Unity3D_Robotics_Overview/blob/main/images/lin_ax_1.png" width="800" height="450">
