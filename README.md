@@ -130,6 +130,19 @@ The project focuses on a simple demonstration of client-server communication via
 <img src="https://github.com/rparak/Unity3D_Robotics_Overview/blob/main/images/irb_120_egm.png" width="800" height="500">
 </p>
 
+## End-Effector Control
+
+The project focuses on the integration and control of various types of end-effectors, including Robotiq, OnRobot, ABB Smart Gripper, and SMC's custom grippers, within the Unity3D environment. The project leverages the power of Unity3D, a robust game development engine, to provide a versatile and user-friendly platform for simulating, testing, and controlling a variety of robotic end-effectors.
+
+|        Result         | Link                                                                                  |
+| --------------------- | ------------------------------------------------------------------------------------- |
+| GitHub                | https://github.com/rparak/Unity3D_Robotics_EE                                         |
+| Youtube               | ...                                           |
+
+<p align="center">
+<img src="https://github.com/rparak/Unity3D_Robotics_Overview/blob/main/images/Unity3D_EE_App.png" width="800" height="500">
+</p>
+
 ## Contact Info:
 Roman.Parak@outlook.com
 
