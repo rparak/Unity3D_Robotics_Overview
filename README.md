@@ -137,7 +137,7 @@ The project focuses on the integration and control of various types of end-effec
 |        Result         | Link                                                                                  |
 | --------------------- | ------------------------------------------------------------------------------------- |
 | GitHub                | https://github.com/rparak/Unity3D_Robotics_EE                                         |
-| Youtube               | ...                                           |
+| Youtube               | https://www.youtube.com/watch?v=Lx78z1vqGL0                                           |
 
 <p align="center">
 <img src="https://github.com/rparak/Unity3D_Robotics_Overview/blob/main/images/Unity3D_EE_App.png" width="800" height="500">
