@@ -155,7 +155,7 @@ Twin.Studio has been primarily tested with the collaborative robot Universal Rob
 | Youtube               | https://www.youtube.com/watch?v=C5n6csZsO5A                                           |
 
 <p align="center">
-<img src="https://github.com/LukasMoravansky/INTEMAC_Twin_Studio/blob/main/Images/Real_Enviroment.jpeg" width="800" height="500">
+<img src="https://github.com/LukasMoravansky/INTEMAC_Twin_Studio/blob/main/Images/Real_Enviroment.jpeg" width="700" height="500">
 </p>
 
 ## Contact Info:
